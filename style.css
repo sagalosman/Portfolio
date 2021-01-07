@@ -529,35 +529,6 @@ a.footer-email:hover {
   color: white;
 }
 
-.bulma {
-  background-image: url('../assets/images/bulma-1.png');
-  width: 30px;
-  height: 30px;
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  margin: 0 auto;
-}
-
-.sqla {
-  background-image: url('../assets/images/sqla-1.png');
-  width: 50px;
-  height: 30px;
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  margin: 0 auto;
-}
-
-.flask {
-  background-image: url('../assets/images/flask-1.png');
-  width: 30px;
-  height: 30px;
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  margin: 0 auto;
-}
 
 main {
   min-height: 100vh;
