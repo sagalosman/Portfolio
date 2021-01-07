@@ -15,7 +15,7 @@
     
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #16e0bd;
+    --clr-accent: #00a17e;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -25,7 +25,7 @@
     --bs: 0.25em 0.25em 0.75em rgba(0,0,0,.25),
           0.125em 0.125em 0.25em rgba(0,0,0,.15);
 }
-
+/* 
 @media (min-width: 800px) {
     :root {
         --fs-h1: 4.5rem;
@@ -33,7 +33,7 @@
         --fs-h3: 1.5rem;
         --fs-body: 1.125rem;
     }
-}
+} */
 
 /* General styles */
 
@@ -62,10 +62,10 @@ img {
 
 strong { font-weight: var(--fw-bold) }
 
-:focus {
+/* :focus {
     outline: 3px solid var(--clr-accent);
     outline-offset: 3px;
-}
+} */
 
 /* Buttons */
 
@@ -252,13 +252,13 @@ header {
     position: relative;
 }
 
-.intro__img {
+/* .intro__img {
     box-shadow: var(--bs);
-}
+} */
 
-.section__subtitle--intro {
+/* .section__subtitle--intro {
     display: inline-block;
-}
+} */
 
 @media (min-width: 600px) {
     .intro {
